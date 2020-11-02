@@ -7,3 +7,4 @@ A small Demo for a Paywall paid with ETH.
 
 
 (In a reallife application this project would probably work server-sided and not entirely by the client.)
+test
